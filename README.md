@@ -2,6 +2,8 @@
 <h3 align="center">A passionate programmer from Hong Kong, CityU Computer Science 2023-2027. I am currently learning front-end web developing and looking forward to learning back-end features.</h3>
 
 
+![Eu_DITcWYAAaX5X](https://github.com/Masonddd11/Masonddd11/assets/139609218/a87f78b1-eb80-470c-95b5-0d0ddf143c49) 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masonddd11&label=Profile%20views&color=0e75b6&style=flat" alt="masonddd11" /> </p>
 
