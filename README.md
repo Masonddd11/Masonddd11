@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mason Wong</h1>
 <h3 align="center">A passionate programmer from Hong Kong, CityU Computer Science 2023-2027. I am currently learning front-end web developing and looking forward to learning back-end features.</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masonddd11&label=Profile%20views&color=0e75b6&style=flat" alt="masonddd11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rukasu_jp" target="blank"><img src="https://img.shields.io/twitter/follow/rukasu_jp?logo=twitter&style=for-the-badge" alt="rukasu_jp" /></a> </p>
