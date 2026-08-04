@@ -1,115 +1,114 @@
-<div align="center">
+<h1 align="center">Hey there, I'm Mason 👋</h1>
 
-# Mason WONG
+<h3 align="center">Full-Stack Engineer · AI Agent Builder · Fintech Enthusiast</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=45&center=true&vCenter=true&multiline=true&repeat=true&duration=3000&color=7C3AED&size=20&lines=TypeScript+%7C+Flutter+%7C+Python;Building+things+that+live+everywhere;30+LeetCode+in+30+days+%F0%9F%94%A5)
+<p align="center">
+  <em>Building intelligent systems at the intersection of finance and AI</em>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white)](https://instagram.com/meisonorz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mason+Wong-0A66C2?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/mason-wong-486b14289)
-
-</div>
-
----
-
-<div align="center">
-<img align="left" src="https://github.com/Masonddd11.png" width="200" style="border-radius:12px" />
-
-```yaml
-Mason:
-  os: macOS
-  shell: zsh
-  editor: VS Code
-  location: Hong Kong 🇭🇰
-  education: BSc Computer Science @ CityU HK
-  languages: TypeScript, Python, JavaScript, Dart
-  frameworks: React, Next.js, Flutter, Node.js
-  databases: PostgreSQL, MongoDB, Firebase
-  current_focus: Full-Stack & Mobile Engineering
-  fun_fact: Wrote 30 LeetCode problems in 30 days straight
-  speaks: English, 中文, 粵語, 日本語
-```
-
-</div>
-
-<br clear="both" />
+<p align="center">
+  <a href="https://github.com/Masonddd11">
+    <img src="https://komarev.com/ghpvc/?username=Masonddd11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/status-🟢%20Open%20to%20Work-brightgreen?style=flat" alt="Status" />
+  <img src="https://img.shields.io/badge/location-🌐%20Remote-blue?style=flat" alt="Location" />
+</p>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
+- 🔭 Currently building **autonomous AI agents** for financial workflows
+- 🌱 Deep into **LLM orchestration**, **tool-use patterns**, and **agentic architectures**
+- 💼 **Fintech background** — I understand the domain, the regulations, and the real-world constraints
+- 🛠️ Full-stack by trade, AI-native by obsession
+- 📫 Reach me: [![Twitter](https://img.shields.io/badge/Twitter-@Masonddd11-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Masonddd11) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masonddd11-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Masonddd11)
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Masonddd11">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Masonddd11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masonddd11&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+**Languages & Core**
+<br/>
+[![TypeScript](https://skillicons.dev/icons?i=typescript&perline=12)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript&perline=12)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python&perline=12)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=postgresql&perline=12)](https://skillicons.dev)
 
-</div>
+**Frontend**
+<br/>
+[![React](https://skillicons.dev/icons?i=react,typescript,html,css,tailwind&perline=12)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs,vite&perline=12)](https://skillicons.dev)
 
-<div align="center">
+**Backend & APIs**
+<br/>
+[![Node.js](https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,fastapi&perline=12)](https://skillicons.dev)
 
-<a href="https://github.com/Masonddd11">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masonddd11&theme=tokyonight&hide_border=true" />
-</a>
+**AI & Agent Development**
+<br/>
+[![AI/ML](https://skillicons.dev/icons?i=openai,langchain,pytorch,tensorflow,huggingface&perline=12)](https://skillicons.dev)
 
-</div>
+**Data & Infra**
+<br/>
+[![Database](https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker,kubernetes,aws,vercel&perline=12)](https://skillicons.dev)
 
----
+**Dev Tools**
+<br/>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=12)](https://skillicons.dev)
 
-### 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Masonddd11&theme=tokyonight&height=280&width=780&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🐍 Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masonddd11/Masonddd11/gh-pages/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masonddd11/Masonddd11/gh-pages/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Masonddd11/Masonddd11/gh-pages/github-snake.svg" />
-</picture>
+</p>
 
 ---
 
-### 🧠 Metrics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-![Metrics](https://metrics.lecoq.io/Masonddd11?template=terminal&config_timezone=Asia/Hong_Kong&plugin_languages=1&plugin_isocalendar=1&plugin_achievements=1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masonddd11&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&custom_title=📊%20GitHub%20Stats)](https://github.com/Masonddd11)
 
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masonddd11&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=30363d&hide_border=false)](https://github.com/Masonddd11)
+
+</p>
+
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Masonddd11&theme=tokyonight&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/Masonddd11)
+
+</p>
 
 ---
 
-<div align="center">
+## 🏆 Trophies
 
-![Profile Views](https://komarev.com/ghpvc/?username=Masonddd11&color=7C3AED&style=flat-square&label=Profile+Views)
+<p align="center">
 
-</div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Masonddd11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@Masonddd11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Masonddd11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masonddd11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Masonddd11)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Masonddd11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Masonddd11)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Masonddd11&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=30363d" alt="WakaTime Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:79c0ff,100:0d1117&height=120&section=footer&text=Masonddd11&fontSize=12&fontColor=79c0ff&animation=fadeIn" alt="Footer" />
+</p>
