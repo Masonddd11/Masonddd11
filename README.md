@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Masonddd11/Masonddd11/main/assets/header.png" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <img src="https://raw.githubusercontent.com/Masonddd11/Masonddd11/main/assets/header.png" alt="GitHub Banner showcasing a professional profile" width="100%" style="border-radius: 16px;">
 </div>
 
 <h1>
