@@ -16,13 +16,35 @@
 
 ---
 
-## 🧑‍💻 About Me
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://github.com/Masonddd11.png" width="180" style="border-radius:12px" />
+    </td>
+    <td valign="top">
 
-- 🔭 Currently building **autonomous AI agents** for financial workflows
-- 🌱 Deep into **LLM orchestration**, **tool-use patterns**, and **agentic architectures**
-- 💼 **Fintech background** — I understand the domain, the regulations, and the real-world constraints
+### 🧑‍💻 About Me
+
+- 🔭 Building **autonomous AI agents** for financial workflows
+- 🌱 Deep into **LLM orchestration** & **agentic architectures**
+- 💼 **Fintech background** — domain, regulations, real-world constraints
 - 🛠️ Full-stack by trade, AI-native by obsession
-- 📫 Reach me: [![Twitter](https://img.shields.io/badge/Twitter-@Masonddd11-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Masonddd11) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masonddd11-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Masonddd11)
+- 📫 [![Twitter](https://img.shields.io/badge/Twitter-@Masonddd11-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Masonddd11) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masonddd11-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Masonddd11)
+
+```yaml
+Mason:
+  stack: TypeScript, Python, JavaScript
+  frontend: React, Next.js, Tailwind
+  backend: Node.js, NestJS, FastAPI
+  database: PostgreSQL, Redis, MongoDB
+  ai: LangChain, OpenAI, PyTorch
+  infra: Docker, Kubernetes, AWS, Vercel
+  focus: Full-Stack + AI Agent Systems
+```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,22 +68,26 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table>
+  <tr>
+    <td>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masonddd11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+    </td>
+    <td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masonddd11&layout=compact&theme=tokyonight&hide_border=true)
 
-</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Masonddd11&theme=tokyonight&hide_border=true)
 
 </p>
-
----
-
-
 
 ---
 
