@@ -29,7 +29,7 @@ Hi there, I'm <a href="https://github.com/Masonddd11">Mason</a>!
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Masonddd11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-wong-486b14289?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Twitter](https://img.shields.io/badge/Twitter-@Masonddd11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Masonddd11) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
